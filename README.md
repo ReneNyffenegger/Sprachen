@@ -1,5 +1,4 @@
-Sprachen
-========
+# Sprachen
 
 [Bekannte Griechiesche Wörter des Neuen Testamentes](https://rawgit.com/ReneNyffenegger/Sprachen/master/Griechisch-Neues-Testament-bekannt.html) (mit Strongs-Nummern).
 
